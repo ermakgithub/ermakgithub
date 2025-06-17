@@ -23,43 +23,6 @@
 
 ---
 
-<!-- 🚀 ПРОЕКТЫ -->
-<h2 align="center">🚀 Лучшие проекты</h2>
-
-<p align="center">
-  <a href="https://github.com/ermakgithub/Betflix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermakgithub&repo=Betflix&theme=radical" />
-  </a>
-   <a href="https://github.com/ermakgithub/InDevHackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermakgithub&repo=InDevHackathon&theme=radical" /> 
-  </a>
-</p>
-
----
-
-<!-- 📈 СТАТИСТИКА -->
-<h2 align="center">📊 GitHub Статистика</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermakgithub&show_icons=true&theme=tokyonight&hide_rank=true&hide=contribs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermakgithub&theme=tokyonight" />
-</p>
-
-
----
-
-<!-- 🧠 ИЗУЧАЮ -->
-<h2 align="center">🧠 Сейчас изучаю</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-4B3263?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-EF007C?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
----
-
 <!-- 📬 КОНТАКТЫ -->
 <h2 align="center">📬 Контакты</h2>
 
