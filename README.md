@@ -30,8 +30,8 @@
   <a href="https://github.com/ermakgithub/Betflix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermakgithub&repo=Betflix&theme=radical" />
   </a>
-  <a href="https://github.com/ermakgithub/HackathonInDev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermakgithub&repo=HackathonInDev&theme=radical" /> 
+   <a href="https://github.com/ermakgithub/InDevHackathon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermakgithub&repo=InDevHackathon&theme=radical" /> 
   </a>
 </p>
 
